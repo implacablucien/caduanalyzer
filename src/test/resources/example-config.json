@@ -1,0 +1,26 @@
+[
+  {
+    "spacecraftId": 42,
+    "virtualChannelId": 0,
+    "frameSize": 1115,
+    "asm": "1ACFFC1D",
+    "secondaryHeader": true,
+    "secondaryHeaderSize": 23,
+    "securityHeaderSize": 0,
+    "securityTrailerSize": 0,
+    "operationalControlField": false,
+    "frameErrorControlWord": true
+  },
+  {
+    "spacecraftId": 42,
+    "virtualChannelId": 1,
+    "frameSize": 1115,
+    "asm": "",
+    "secondaryHeader": false,
+    "secondaryHeaderSize": 23,
+    "securityHeaderSize": 16,
+    "securityTrailerSize": 16,
+    "operationalControlField": true,
+    "frameErrorControlWord": false
+  }
+]
